@@ -1,0 +1,64 @@
+{
+    "1a84df56-2475-4d01-89f8-110189122786": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "path": "Assets/Pardo/Audio Marks/Mark C Short.audio.nasset"
+    },
+    "256875de-201c-43c1-bf18-f0cd0a3894ce": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "path": "Assets/Pardo/Audio Marks/Mark C Full.audio.nasset"
+    },
+    "2e5d6458-f003-4d2a-9a46-0f4926ec9e16": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "path": "Assets/Pardo/SFX/Spawn/Spawn Airy 1.audio.nasset"
+    },
+    "3e905ad2-d1fa-4259-a456-42da0d17f5dd": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "path": "Assets/Pardo/SFX/Completion/Level End A.audio.nasset"
+    },
+    "61f507e3-880c-415c-bdd4-2df5a82b1efd": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "path": "Assets/Pardo/SFX/Pickups/Pickup Spinny 1.audio.nasset"
+    },
+    "65b24951-fe8e-4811-b695-f59f18e13d3f": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "path": "Assets/Pardo/Music/Neon Drivers.audio.nasset"
+    },
+    "6d068326-d9a0-40b6-a8b4-823ce3662c2b": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "path": "Assets/Pardo/SFX/Spawn/Spawn Digital 1.audio.nasset"
+    },
+    "8769d80a-9b2c-4774-b54c-3893256b07fd": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Audio Zoo Assets"
+    },
+    "94ee4099-5ff3-4c5f-b2de-ffbb0381be87": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "path": "Assets/Pardo/Audio Marks/Mark A.audio.nasset"
+    },
+    "9896166c-538e-4d85-9963-da97cc39b584": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "path": "Assets/Pardo/SFX/Pickups/Pickup Default 1.audio.nasset"
+    },
+    "a1421480-55cd-4701-a42c-1387e01887b5": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "path": "Assets/Pardo/Audio Marks/Mark D.audio.nasset"
+    },
+    "ae8f06c1-b770-43b7-9149-cceb109900fb": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "path": "Assets/Pardo/SFX/Ambience/Ambience Outdoors 1.audio.nasset"
+    },
+    "b5ef71a0-54cf-4ae7-9cdd-59aee047124c": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "path": "Assets/Pardo/Audio Marks/Mark B.audio.nasset"
+    },
+    "c9b1c39c-e55b-44cb-8d5c-61b0ef784a8d": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "path": "Assets/Pardo/SFX/Pickups/Pickup Warm 1.audio.nasset"
+    },
+    "d57353f3-47c2-45c4-9a60-b1e53f530e10": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "path": "Assets/Pardo/Music/Green Town.audio.nasset"
+    },
+    "guid": "0e47da5a-f683-2713-8a7f-f56a95b578a9"
+}
