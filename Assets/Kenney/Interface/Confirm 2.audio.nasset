@@ -1,5 +1,9 @@
 {
     "guid": "7d62f9bf-8fb8-21d8-cdef-a7068a988a4e",
     "source": "Confirm 2.ogg",
-    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114"
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "7d62f9bf-8fb8-21d8-cdef-a7068a988a4e"
+    }
 }

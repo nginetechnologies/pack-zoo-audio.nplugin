@@ -1,5 +1,9 @@
 {
     "guid": "9811fdeb-a2b7-6038-9a2a-ecf90d33782f",
     "source": "Impact Plank 1.ogg",
-    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114"
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "9811fdeb-a2b7-6038-9a2a-ecf90d33782f"
+    }
 }

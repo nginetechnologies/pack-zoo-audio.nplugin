@@ -1,5 +1,9 @@
 {
     "guid": "8e931ef1-99a1-bc34-42b6-c401b3787162",
     "source": "Impact Metal 2.ogg",
-    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114"
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "8e931ef1-99a1-bc34-42b6-c401b3787162"
+    }
 }

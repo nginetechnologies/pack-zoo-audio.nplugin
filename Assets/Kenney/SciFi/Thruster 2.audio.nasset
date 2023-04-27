@@ -1,5 +1,9 @@
 {
     "guid": "044a40a7-57d2-3ed7-1b72-9a53154803d0",
     "source": "Thruster 2.ogg",
-    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114"
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "044a40a7-57d2-3ed7-1b72-9a53154803d0"
+    }
 }

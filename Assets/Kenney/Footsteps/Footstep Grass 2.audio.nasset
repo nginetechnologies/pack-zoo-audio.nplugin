@@ -1,5 +1,9 @@
 {
     "guid": "2a8b01b1-cb41-9945-1dd1-91bb1d25c710",
     "source": "Footstep Grass 2.ogg",
-    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114"
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "2a8b01b1-cb41-9945-1dd1-91bb1d25c710"
+    }
 }

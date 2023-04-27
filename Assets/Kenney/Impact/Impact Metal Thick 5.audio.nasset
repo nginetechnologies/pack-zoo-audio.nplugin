@@ -1,5 +1,9 @@
 {
     "guid": "73f33a27-3fda-ec36-8235-262ec10c1725",
     "source": "Impact Metal Thick 5.ogg",
-    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114"
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "73f33a27-3fda-ec36-8235-262ec10c1725"
+    }
 }

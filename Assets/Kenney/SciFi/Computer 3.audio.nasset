@@ -1,5 +1,9 @@
 {
     "guid": "27c284a0-9350-02b0-74c2-42bad2ed484d",
     "source": "Computer 3.ogg",
-    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114"
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "27c284a0-9350-02b0-74c2-42bad2ed484d"
+    }
 }

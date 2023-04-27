@@ -1,5 +1,9 @@
 {
     "guid": "18bf3fc3-aa15-f9d7-64be-e6279c7e9284",
     "source": "Cloth Belt 2.ogg",
-    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114"
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "18bf3fc3-aa15-f9d7-64be-e6279c7e9284"
+    }
 }

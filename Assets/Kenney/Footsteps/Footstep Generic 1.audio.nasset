@@ -1,5 +1,9 @@
 {
     "guid": "27f541af-434c-91cc-c708-ae0ed37e8faa",
     "source": "Footstep Generic 1.ogg",
-    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114"
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "27f541af-434c-91cc-c708-ae0ed37e8faa"
+    }
 }

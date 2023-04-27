@@ -1,5 +1,9 @@
 {
     "guid": "9b87a21c-0d3b-489c-a624-1e9f17c29f9c",
     "source": "Female Final Round.ogg",
-    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114"
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "9b87a21c-0d3b-489c-a624-1e9f17c29f9c"
+    }
 }

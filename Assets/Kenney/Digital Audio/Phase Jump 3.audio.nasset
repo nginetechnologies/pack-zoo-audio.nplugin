@@ -1,5 +1,9 @@
 {
     "guid": "c03ee8de-5c11-4ef8-3449-dbc7196d6754",
     "source": "Phase Jump 3.ogg",
-    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114"
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "c03ee8de-5c11-4ef8-3449-dbc7196d6754"
+    }
 }
