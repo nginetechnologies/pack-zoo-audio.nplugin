@@ -1505,10 +1505,9 @@
         "path": "Assets/Kenney/Music Jingles/8-Bit jingles/8bit jingle 3.audio.nasset"
     },
     "8769d80a-9b2c-4774-b54c-3893256b07fd": {
-        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
         "path": "Package.nplugin",
-        "name": "Audio Zoo Assets",
-        "thumbnail": "e9e72eb6-2bc3-4eaf-a1b7-d890f5afe4f6"
+        "name": "Audio Zoo Assets"
     },
     "897c661c-7fee-7a13-5d1b-49dabdcd93eb": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
