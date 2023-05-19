@@ -1,4 +1,9 @@
 {
+    "0046dfb5-7997-ccea-b99b-3d4109e98a49": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Dirt 3.audio.nasset"
+    },
     "006441b6-94e5-c2eb-bfc7-eea95d09108f": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -8,6 +13,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/SciFi/Laser Small 3.audio.nasset"
+    },
+    "0138055c-90a7-fe94-b517-6d1fb841849b": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Dirt 4.audio.nasset"
     },
     "01bbeb0a-4c6e-6616-2d5f-c0219d16e886": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -23,6 +33,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Voiceover/Male/Male 1.audio.nasset"
+    },
+    "03675ea8-dddd-dbbd-733b-73d1cecc3967": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Jump 2.audio.nasset"
     },
     "037bc396-8d34-a3c5-828a-d62a48fc4ea3": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -73,6 +88,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Impact/Impact Glass 2.audio.nasset"
+    },
+    "0897ddcf-54f2-dd50-f2ae-2efaa18435b5": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Water 1.audio.nasset"
     },
     "08d9549d-9fd1-3ce3-c1d8-afdcdf664824": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -169,6 +189,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/SciFi/Force Field 1.audio.nasset"
     },
+    "0f39b17e-a90e-6257-03c1-13af5c82cc2a": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/UI/Countdown Up.audio.nasset"
+    },
     "0f62b276-d47e-1515-01b4-516457168189": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -193,6 +218,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Music Jingles/Hit jingles/Hit Jingle 5.audio.nasset"
+    },
+    "1062c3cc-0a7b-c884-814b-4e93df65a383": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Jump 4.audio.nasset"
     },
     "1077012e-a510-2249-c20b-2bff68e03e4f": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -228,6 +258,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Interface/Maximize 8.audio.nasset"
+    },
+    "12afbd45-4707-d34c-a8f3-3d9cc6c9e813": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Jump 5.audio.nasset"
     },
     "12f97c9c-9331-5034-e4f8-ea0f91cd1719": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -309,6 +344,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Music Jingles/8-Bit jingles/8bit jingle 2.audio.nasset"
     },
+    "1cf66b70-be3b-ed22-5e21-99774a1568d2": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Ambience/Ambience Crowd Talking.audio.nasset"
+    },
     "1d1f1fc4-975a-ee18-f6bd-20185c7b189e": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -328,6 +368,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Voiceover/Male/Male Ready.audio.nasset"
+    },
+    "1e99c45b-aaf5-0533-8ff6-1ba49e4004cc": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Wood 5.audio.nasset"
     },
     "1eaf2b01-8e99-d8ce-29e9-3768ef2749f3": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -433,6 +478,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/SciFi/Thruster 5.audio.nasset"
+    },
+    "24cc58ea-9363-56d6-23a5-d59010f4a517": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Stone 5.audio.nasset"
     },
     "256875de-201c-43c1-bf18-f0cd0a3894ce": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -579,10 +629,20 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Music Jingles/Basic jingles/Basic Jingle 8.audio.nasset"
     },
+    "30ffe927-23e0-f9e7-0b6f-0da71243aa6a": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Dirt 1.audio.nasset"
+    },
     "31f3362a-eb07-62fe-eb35-1860f7c916ba": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Music Jingles/Basic jingles/Basic Jingle 9.audio.nasset"
+    },
+    "33e6c9df-bd82-8500-78dc-f03c53032a7c": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Wood 2.audio.nasset"
     },
     "3473bb33-09c2-f4e9-916a-8b9e65b5d758": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -614,10 +674,20 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Impact/Impact Plate Thick 4.audio.nasset"
     },
+    "35d28a46-0fff-ef80-c6a7-b0a19dfe96eb": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Dirt 6.audio.nasset"
+    },
     "35fa0278-9cb8-cebe-dad4-1884d23f6c17": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Digital Audio/Power Up 11.audio.nasset"
+    },
+    "360ef70a-fadd-53dc-7999-07e4e0ef790d": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Water 4.audio.nasset"
     },
     "3610f61c-a028-1f78-a6ea-67e48b64dc84": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -673,6 +743,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Interface/Maximize 2.audio.nasset"
+    },
+    "38bdd4b3-001f-58d0-8af3-a3dcb40a44c4": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Water 5.audio.nasset"
     },
     "393cb2d7-77b2-2797-5903-50e9941a69db": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -738,6 +813,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Pardo/SFX/Completion/Level End A.audio.nasset"
+    },
+    "3f0777fe-b793-52d9-d1fe-979b372c77b5": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Stone 3.audio.nasset"
     },
     "40352a0b-a4f4-8a0b-982a-56762d7f296a": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -924,6 +1004,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/SciFi/Force Field 5.audio.nasset"
     },
+    "4f8304c5-f641-dafd-fda1-4317658617d9": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Jump 3.audio.nasset"
+    },
     "4f883134-1b58-6f3c-7d51-7b48928bcb24": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -938,6 +1023,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Voiceover/Male/Male Failed.audio.nasset"
+    },
+    "5066ded4-1eab-2484-887d-1c6f33a32d62": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/UI/Countdown Down.audio.nasset"
     },
     "5084d30a-9a5b-02b0-8cce-2f0dd2945262": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -1004,6 +1094,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Interface/Error 5.audio.nasset"
     },
+    "55ec197c-5176-3c98-8f22-ea072f4fb75e": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Wood 1.audio.nasset"
+    },
     "56b5afd8-6e6e-7121-4164-03672f948506": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -1023,6 +1118,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Music Jingles/8-Bit jingles/8bit jingle 9.audio.nasset"
+    },
+    "57d24c04-9e67-e45d-9e67-52af5f866cd9": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Dirt 4.audio.nasset"
     },
     "5809abc8-92ca-f87b-dd28-beadf8b46864": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -1048,6 +1148,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Impact/Impact Generic 3.audio.nasset"
+    },
+    "5afb3549-5b62-b662-283b-5015c7bdd42f": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/Music/Battle of Rhun.audio.nasset"
     },
     "5b76ef46-cb63-8916-7841-7c520107417b": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -1114,6 +1219,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Interface/Bong 1.audio.nasset"
     },
+    "610571af-6574-3f2b-5e44-75567df99802": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Stone 1.audio.nasset"
+    },
     "613573b2-1617-e635-0587-45bfaa663607": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -1149,6 +1259,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Interface/Minimize 5.audio.nasset"
     },
+    "63a61fc2-bb58-acb9-f729-98b1a7901a50": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/Music/Khaki Plaza.audio.nasset"
+    },
     "64211a5a-a468-c43b-b1c7-6acbcf81d7e4": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -1173,6 +1288,16 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Pardo/Music/Neon Drivers.audio.nasset"
+    },
+    "65c211f2-6b4b-0189-f2fb-d44e2871bf19": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Stone 4.audio.nasset"
+    },
+    "65d40d46-0212-fee2-17d5-ee12ad991fc8": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Water 2.audio.nasset"
     },
     "66531e2d-9398-e54f-72c7-c51a6f4c374a": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -1249,6 +1374,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Pardo/SFX/Spawn/Spawn Digital 1.audio.nasset"
     },
+    "6d539138-2f8c-e649-2385-4e452a16dfd7": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/UI/UI Object Tick 4.audio.nasset"
+    },
     "6dcaa41e-2e49-7110-3168-5e68eb257d6e": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -1273,6 +1403,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Music Jingles/Steel jingles/Steel Jingle 1.audio.nasset"
+    },
+    "71070952-eac9-749d-b964-e70746221418": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Water 5.audio.nasset"
     },
     "714f6870-f374-c8e4-9023-a5ec224cda6f": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -1303,6 +1438,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Digital Audio/Low Down.audio.nasset"
+    },
+    "73779a00-36b9-cade-47e8-38d45737a70a": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Wood 1.audio.nasset"
     },
     "73ace31c-724e-63f8-936a-7c67f259ade4": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -1364,6 +1504,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Voiceover/Male/Male 8.audio.nasset"
     },
+    "78510732-4f8e-eeca-34fc-06523cf9586f": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Wood 5.audio.nasset"
+    },
     "787512d4-7ebe-7d3d-d2ea-0b80ca435e12": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -1378,6 +1523,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/RPG/Book Place 2.audio.nasset"
+    },
+    "79661273-2e54-a212-5471-b6871d57e90a": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Jump Stylized.audio.nasset"
     },
     "7983b67a-c294-523d-1122-5e302847da3b": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -1409,6 +1559,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Impact/Impact Metal Thin 2.audio.nasset"
     },
+    "7bf809d2-ebb4-1b3d-6dda-617c6d599dc3": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/UI/UI Object Tick 3.audio.nasset"
+    },
     "7c1c5a60-1910-b2ab-f2d3-f0631d749ba4": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -1423,6 +1578,16 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Digital Audio/Space Trash 5.audio.nasset"
+    },
+    "7f2a3305-895c-b9de-18f2-ee9fca577eb1": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Stone 4.audio.nasset"
+    },
+    "7f5a1f01-bd9a-8390-2e50-7bb925ce166f": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Stone 2.audio.nasset"
     },
     "7fe2a675-2f32-8d72-baee-62be59c84886": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -1469,6 +1634,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Impact/Impact Glass 4.audio.nasset"
     },
+    "83814221-4984-36ef-9f41-4cd51ab26d51": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Water 1.audio.nasset"
+    },
     "83fa9e41-42ff-6245-6ebf-415567935ac6": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -1514,6 +1684,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Voiceover/Female/Female Go Go.audio.nasset"
     },
+    "89a30cd2-0bba-0dd2-472d-485124b5cb3f": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Dirt 1.audio.nasset"
+    },
     "8a0de864-274f-c2f1-947c-66dbc381ac49": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -1528,6 +1703,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Impact/Impact Plank 5.audio.nasset"
+    },
+    "8bd01c9f-1dcc-53ed-c2e3-9107f7a7067f": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/UI/UI Object Tick 2.audio.nasset"
     },
     "8c3e8d03-88f7-3442-f68a-28bca4d13e46": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -1544,10 +1724,20 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Voiceover/Male/Male Target Destroyed.audio.nasset"
     },
+    "8ce85f9e-341a-8ae7-c040-39eb55ea0ffa": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Dirt 2.audio.nasset"
+    },
     "8d29fd1b-74b3-58dc-b7ad-f74d5cbc803c": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Footsteps/Footstep Carpet 4.audio.nasset"
+    },
+    "8d5f126a-bdf8-2fd0-0872-d3518b27c37d": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Wood 4.audio.nasset"
     },
     "8db9336b-04ac-e6bc-3a80-ea464e503a4f": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -1584,6 +1774,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Voiceover/Female/Female Ready.audio.nasset"
     },
+    "9113451c-818b-d6c4-da29-ded938084a59": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Water 3.audio.nasset"
+    },
     "91609fb6-2fac-70cc-6895-9c3b04e39366": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -1609,10 +1804,20 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Digital Audio/Phaser Down 3.audio.nasset"
     },
+    "92a5cc7f-41cb-4454-c540-cf06c82f0742": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/Music/Eastern Gardens.audio.nasset"
+    },
     "931054aa-5279-6928-17e9-efad1db986cd": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/RPG/Door Close 4.audio.nasset"
+    },
+    "935bb27c-2bde-f151-5de0-ac36d16ac078": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Stone 3.audio.nasset"
     },
     "937961d4-8b9e-5e79-d31d-e7def794581f": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -1738,6 +1943,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Music Jingles/Steel jingles/Steel Jingle 6.audio.nasset"
+    },
+    "9cef721c-899b-e020-afdc-65515286dc21": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Wood 3.audio.nasset"
     },
     "9d2cf7a6-38f9-99f2-50cf-b8b76dc86395": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -1889,6 +2099,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Voiceover/Male/Male Level.audio.nasset"
     },
+    "a668a931-43f4-f929-bd99-8e2e13c0aaa4": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Water 2.audio.nasset"
+    },
     "a6d10751-b7d9-2dab-38ef-12e46e99f0aa": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -1943,6 +2158,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Music Jingles/Steel jingles/Steel Jingle 2.audio.nasset"
+    },
+    "acb0b004-6ad2-1414-b7c0-12315782f810": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Wood 4.audio.nasset"
     },
     "acca9c40-88e9-a914-98bc-7e351603e9d8": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -2029,6 +2249,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Voiceover/Female/Female Tie.audio.nasset"
     },
+    "b2c9ac27-02b1-fd9d-4b5e-3d735095b7dd": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Dirt 5.audio.nasset"
+    },
     "b3731cc1-3787-875a-1b4a-1cc372eb77d0": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -2058,6 +2283,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Footsteps/Footstep Carpet 3.audio.nasset"
+    },
+    "b5e47831-b4d9-241c-567b-00fb6e79c9b4": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Wood 3.audio.nasset"
     },
     "b5ef71a0-54cf-4ae7-9cdd-59aee047124c": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -2169,6 +2399,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Digital Audio/Space Trash 1.audio.nasset"
     },
+    "bfb07726-4711-ae59-afda-e250d590ee9e": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/UI/UI Object Pop 1.audio.nasset"
+    },
     "bfe0be9e-efde-790d-ec8b-820376461bf5": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -2193,6 +2428,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Interface/Minimize 6.audio.nasset"
+    },
+    "c19122da-220a-7799-6ebb-152a6a462243": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/UI/UI Object Tick 5.audio.nasset"
     },
     "c2a27cd6-185c-12a8-fc3e-0d5cf34a3597": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -2264,6 +2504,16 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/SciFi/Engine Circular 3.audio.nasset"
     },
+    "c80ecc26-7644-b31f-013b-20916be3ff16": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Stone 2.audio.nasset"
+    },
+    "c82d4992-373a-b22a-977f-842fc0516d6b": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Stone 1.audio.nasset"
+    },
     "c8ce8967-6203-a147-8b03-5c15ab46a31a": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -2299,6 +2549,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Voiceover/Male/Male Final Round.audio.nasset"
     },
+    "cac8effc-c51e-a668-3dc0-9abc6ca21ca9": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Dirt 2.audio.nasset"
+    },
     "cb0d26d1-434a-cfd0-c6cb-8834b2a1ca32": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -2333,6 +2588,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Interface/Glass 6.audio.nasset"
+    },
+    "cd44a87b-da6a-1cd1-6603-6e27a5404ed0": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Water 3.audio.nasset"
     },
     "cd4e9c7f-f3f4-a19e-7e50-bc37ade1007e": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -2444,10 +2704,20 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/RPG/Cloth 3.audio.nasset"
     },
+    "d725fe2d-e14a-6e95-327f-1afd73414e1b": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Water 4.audio.nasset"
+    },
     "d731b11d-2de1-7431-379b-54ebedbff5ef": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Impact/Impact Tin 2.audio.nasset"
+    },
+    "d827aebc-fc73-b009-8b65-52c01d60af5f": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/UI/UI Object Tick 1.audio.nasset"
     },
     "d8451cb6-112e-a21b-53d2-f37a4b5c3717": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -2509,6 +2779,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Interface/Question 4.audio.nasset"
     },
+    "de060e39-157c-953f-f673-26f2dd02b227": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Ambience/Ambience City Streets.audio.nasset"
+    },
     "de545b3a-aafc-74ce-b2c8-c5bea3993c69": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -2528,6 +2803,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Impact/Impact Glass Thick 4.audio.nasset"
+    },
+    "dfe6a1fe-a34f-9416-1d86-fc0e09f96100": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Wood 2.audio.nasset"
     },
     "e064441c-ab5f-6a71-7834-3b06532dde17": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -2714,6 +2994,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Interface/Question 3.audio.nasset"
     },
+    "ed6c2d92-ce6e-90d7-de00-1a3a1aa3bc7b": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Stone 5.audio.nasset"
+    },
     "edf1749a-04aa-44a9-5278-5c8e733056db": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -2728,6 +3013,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Impact/Impact Plate Thin 1.audio.nasset"
+    },
+    "eee85f83-a21c-b747-4b69-11e547ede39d": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Footstep Dirt 5.audio.nasset"
     },
     "ef004333-ed4d-c270-068f-a2a82254734f": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -2783,6 +3073,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Digital Audio/Phaser Up 6.audio.nasset"
+    },
+    "f2ef8446-47c7-d427-a0c7-98639094e265": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Dirt 7.audio.nasset"
     },
     "f3e1e843-b745-995a-993b-6a4a7654be71": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -2864,6 +3159,11 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Digital Audio/Power Up 1.audio.nasset"
     },
+    "f9be635f-aeac-8e48-0e99-df66e23e75a4": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Landing Dirt 3.audio.nasset"
+    },
     "f9d52e43-da28-4006-b7a2-b0f22f829ed5": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
@@ -2888,6 +3188,11 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Kenney/Music Jingles/Sax jingles/Sax Jingle 17.audio.nasset"
+    },
+    "fba971fd-e6bc-233d-dbc7-a3321996ae11": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Pardo/SFX/Character/Jump 1.audio.nasset"
     },
     "fc178dd9-133d-239f-b6ad-2625a750dd06": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
