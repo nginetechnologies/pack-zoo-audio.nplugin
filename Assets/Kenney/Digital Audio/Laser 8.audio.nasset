@@ -1,9 +1,0 @@
-{
-    "guid": "79f8fc05-ba43-c45e-3995-f3d6c16953b2",
-    "source": "Laser 8.ogg",
-    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
-    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
-    "ea45accb-89d5-4816-9831-f116045b90e4": {
-        "audio_asset": "79f8fc05-ba43-c45e-3995-f3d6c16953b2"
-    }
-}

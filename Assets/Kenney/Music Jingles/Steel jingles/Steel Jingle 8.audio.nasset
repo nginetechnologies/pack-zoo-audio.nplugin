@@ -1,9 +1,0 @@
-{
-    "guid": "01bbeb0a-4c6e-6616-2d5f-c0219d16e886",
-    "source": "Steel Jingle 8.ogg",
-    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
-    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
-    "ea45accb-89d5-4816-9831-f116045b90e4": {
-        "audio_asset": "01bbeb0a-4c6e-6616-2d5f-c0219d16e886"
-    }
-}

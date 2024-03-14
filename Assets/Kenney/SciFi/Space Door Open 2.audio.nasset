@@ -1,9 +1,0 @@
-{
-    "guid": "c31becb8-2172-98cf-b1b8-62df906acee1",
-    "source": "Space Door Open 2.ogg",
-    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
-    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
-    "ea45accb-89d5-4816-9831-f116045b90e4": {
-        "audio_asset": "c31becb8-2172-98cf-b1b8-62df906acee1"
-    }
-}

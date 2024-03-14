@@ -1,9 +1,0 @@
-{
-    "guid": "b29f16c0-d21a-51aa-f563-abbc56963403",
-    "source": "Female Tie.ogg",
-    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
-    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
-    "ea45accb-89d5-4816-9831-f116045b90e4": {
-        "audio_asset": "b29f16c0-d21a-51aa-f563-abbc56963403"
-    }
-}
