@@ -1,0 +1,9 @@
+{
+    "guid": "d6a29148-1f64-fcb6-578c-7e406c72bed7",
+    "source": "S_Click_1.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "d6a29148-1f64-fcb6-578c-7e406c72bed7"
+    }
+}

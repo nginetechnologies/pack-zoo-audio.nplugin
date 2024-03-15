@@ -1,0 +1,9 @@
+{
+    "guid": "ab17ba56-5479-db41-f78b-1df38f3e6b1e",
+    "source": "S_Impact_Glass_1.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "ab17ba56-5479-db41-f78b-1df38f3e6b1e"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "guid": "a79551e1-8278-5e14-a82a-dabb1db5be49",
+    "source": "S_Male_Mission.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "a79551e1-8278-5e14-a82a-dabb1db5be49"
+    }
+}

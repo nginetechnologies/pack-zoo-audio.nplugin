@@ -1,0 +1,9 @@
+{
+    "guid": "832dd81b-0e07-32ab-5435-586fd5d9a0f1",
+    "source": "S_Impact_Metal_Thin_5.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "832dd81b-0e07-32ab-5435-586fd5d9a0f1"
+    }
+}

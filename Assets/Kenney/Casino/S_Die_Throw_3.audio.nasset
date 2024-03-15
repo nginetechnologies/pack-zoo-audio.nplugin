@@ -1,0 +1,9 @@
+{
+    "guid": "47254095-7ca4-7489-62bd-e126258a65c3",
+    "source": "S_Die_Throw_3.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "47254095-7ca4-7489-62bd-e126258a65c3"
+    }
+}

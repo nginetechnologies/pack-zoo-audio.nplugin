@@ -1,0 +1,9 @@
+{
+    "guid": "91cd3851-3bda-b88f-cc2c-c13db4383a23",
+    "source": "S_Phaser_Up_7.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "91cd3851-3bda-b88f-cc2c-c13db4383a23"
+    }
+}

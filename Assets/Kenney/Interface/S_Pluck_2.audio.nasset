@@ -1,0 +1,9 @@
+{
+    "guid": "c6e0bb7e-87cc-fbe4-79b6-e31aeaa4a297",
+    "source": "S_Pluck_2.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "c6e0bb7e-87cc-fbe4-79b6-e31aeaa4a297"
+    }
+}

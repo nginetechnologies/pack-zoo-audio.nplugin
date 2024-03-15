@@ -1,0 +1,9 @@
+{
+    "guid": "68e5ceab-e07a-29ad-cdd3-8b3f2840e962",
+    "source": "S_Male_Objective.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "68e5ceab-e07a-29ad-cdd3-8b3f2840e962"
+    }
+}

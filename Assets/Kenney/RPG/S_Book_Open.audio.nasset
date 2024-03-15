@@ -1,0 +1,9 @@
+{
+    "guid": "b6d6764b-0628-55c3-9783-037be1952ef5",
+    "source": "S_Book_Open.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "b6d6764b-0628-55c3-9783-037be1952ef5"
+    }
+}

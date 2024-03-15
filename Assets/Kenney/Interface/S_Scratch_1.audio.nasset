@@ -1,0 +1,9 @@
+{
+    "guid": "22809ff1-62fd-4569-26e5-9777f4826bcd",
+    "source": "S_Scratch_1.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "22809ff1-62fd-4569-26e5-9777f4826bcd"
+    }
+}

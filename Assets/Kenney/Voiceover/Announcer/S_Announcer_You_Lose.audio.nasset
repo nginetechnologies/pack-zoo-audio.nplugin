@@ -1,0 +1,9 @@
+{
+    "guid": "d3012cf4-eb11-132e-9765-71824a6ee34b",
+    "source": "S_Announcer_You_Lose.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "d3012cf4-eb11-132e-9765-71824a6ee34b"
+    }
+}

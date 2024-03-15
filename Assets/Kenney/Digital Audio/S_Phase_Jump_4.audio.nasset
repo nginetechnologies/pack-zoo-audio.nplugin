@@ -1,0 +1,9 @@
+{
+    "guid": "c1bb238a-e88f-9ef5-33a0-92907f8319ac",
+    "source": "S_Phase_Jump_4.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "c1bb238a-e88f-9ef5-33a0-92907f8319ac"
+    }
+}

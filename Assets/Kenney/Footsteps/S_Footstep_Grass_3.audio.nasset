@@ -1,0 +1,9 @@
+{
+    "guid": "fe76ccd9-1196-bca8-04ed-c50d2c26df9d",
+    "source": "S_Footstep_Grass_3.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "fe76ccd9-1196-bca8-04ed-c50d2c26df9d"
+    }
+}

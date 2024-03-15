@@ -1,0 +1,9 @@
+{
+    "guid": "175b4181-d327-0ce9-d4f4-3e3d304f5655",
+    "source": "S_Announcer_Winner.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "175b4181-d327-0ce9-d4f4-3e3d304f5655"
+    }
+}

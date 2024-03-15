@@ -1,0 +1,9 @@
+{
+    "guid": "4cf7cd9d-4aae-920f-0b8b-7d91226b7592",
+    "source": "S_Male_4.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "4cf7cd9d-4aae-920f-0b8b-7d91226b7592"
+    }
+}

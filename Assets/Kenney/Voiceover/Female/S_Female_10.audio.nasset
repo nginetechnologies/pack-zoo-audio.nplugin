@@ -1,0 +1,9 @@
+{
+    "guid": "3975f9e8-1b85-0001-35f3-111b3bd35da5",
+    "source": "S_Female_10.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "3975f9e8-1b85-0001-35f3-111b3bd35da5"
+    }
+}

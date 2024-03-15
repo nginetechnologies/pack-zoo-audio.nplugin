@@ -1,0 +1,9 @@
+{
+    "guid": "ee1f1453-454e-08a6-17bf-31e1fdf88447",
+    "source": "S_Announcer_Pick_Character.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "ee1f1453-454e-08a6-17bf-31e1fdf88447"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "guid": "69a01e38-9652-f26f-1180-49ae2bbf1b83",
+    "source": "S_Three_Tone_1.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "69a01e38-9652-f26f-1180-49ae2bbf1b83"
+    }
+}

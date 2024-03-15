@@ -1,0 +1,9 @@
+{
+    "guid": "da083a5d-b118-762f-37d6-07965d79f8d5",
+    "source": "S_Door_Creak_3.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "da083a5d-b118-762f-37d6-07965d79f8d5"
+    }
+}

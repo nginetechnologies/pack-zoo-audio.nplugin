@@ -1,0 +1,9 @@
+{
+    "guid": "32320d92-5b0b-869d-2d12-0524c30ee7c1",
+    "source": "S_Door_Close_3.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "32320d92-5b0b-869d-2d12-0524c30ee7c1"
+    }
+}

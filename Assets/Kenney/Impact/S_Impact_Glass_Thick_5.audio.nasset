@@ -1,0 +1,9 @@
+{
+    "guid": "1625bcb9-7512-c17d-7ea7-441a42c50afe",
+    "source": "S_Impact_Glass_Thick_5.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "1625bcb9-7512-c17d-7ea7-441a42c50afe"
+    }
+}

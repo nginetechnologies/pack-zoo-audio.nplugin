@@ -1,0 +1,9 @@
+{
+    "guid": "60523d2e-a459-d7da-791d-680b5981a836",
+    "source": "S_Phaser_Down_1.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "60523d2e-a459-d7da-791d-680b5981a836"
+    }
+}

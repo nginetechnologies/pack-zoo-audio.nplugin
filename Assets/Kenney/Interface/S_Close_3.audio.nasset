@@ -1,0 +1,9 @@
+{
+    "guid": "30d046c2-dd8b-9590-cd31-0d7060ee9740",
+    "source": "S_Close_3.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "30d046c2-dd8b-9590-cd31-0d7060ee9740"
+    }
+}

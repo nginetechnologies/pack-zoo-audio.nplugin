@@ -1,0 +1,9 @@
+{
+    "guid": "e67b2673-dc6e-c67e-8e46-29e8b8c1c8ce",
+    "source": "S_Laser_Large_5.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "e67b2673-dc6e-c67e-8e46-29e8b8c1c8ce"
+    }
+}

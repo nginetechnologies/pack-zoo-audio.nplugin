@@ -1,0 +1,9 @@
+{
+    "guid": "e0473cb3-3e04-8b4d-8022-20d5b6e6cee3",
+    "source": "S_Maximize_2.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "e0473cb3-3e04-8b4d-8022-20d5b6e6cee3"
+    }
+}

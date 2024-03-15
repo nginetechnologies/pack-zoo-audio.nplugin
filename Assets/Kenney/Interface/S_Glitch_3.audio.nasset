@@ -1,0 +1,9 @@
+{
+    "guid": "d520199e-6db3-27ea-11a7-44b0d5974f30",
+    "source": "S_Glitch_3.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "d520199e-6db3-27ea-11a7-44b0d5974f30"
+    }
+}

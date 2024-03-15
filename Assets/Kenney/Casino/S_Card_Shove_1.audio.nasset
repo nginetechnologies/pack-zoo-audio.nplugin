@@ -1,0 +1,9 @@
+{
+    "guid": "1b3822a4-3233-2636-a3f9-9c6153db688b",
+    "source": "S_Card_Shove_1.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "1b3822a4-3233-2636-a3f9-9c6153db688b"
+    }
+}

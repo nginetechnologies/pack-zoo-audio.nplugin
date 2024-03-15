@@ -1,0 +1,9 @@
+{
+    "guid": "d50925d1-9e28-96a9-fcd5-59aeb0c602e2",
+    "source": "S_Engine_4.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "d50925d1-9e28-96a9-fcd5-59aeb0c602e2"
+    }
+}

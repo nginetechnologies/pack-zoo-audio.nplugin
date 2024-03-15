@@ -1,0 +1,9 @@
+{
+    "guid": "75b0bbb3-34ed-edbb-2525-b305598450dc",
+    "source": "S_Draw_Knife_2.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "75b0bbb3-34ed-edbb-2525-b305598450dc"
+    }
+}
