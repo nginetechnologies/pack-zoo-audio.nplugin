@@ -1,0 +1,9 @@
+{
+    "guid": "e57e3b74-3a6f-37f1-dfa6-77344eb72d9f",
+    "source": "S_Meydan_Complex_Decisions.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "e57e3b74-3a6f-37f1-dfa6-77344eb72d9f"
+    }
+}

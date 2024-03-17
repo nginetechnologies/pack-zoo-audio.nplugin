@@ -1,0 +1,9 @@
+{
+    "guid": "5821b8bf-48a6-374a-70e9-df0e79f9fb53",
+    "source": "S_Meydan_Piece_Of_Life_Pt_2.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "5821b8bf-48a6-374a-70e9-df0e79f9fb53"
+    }
+}

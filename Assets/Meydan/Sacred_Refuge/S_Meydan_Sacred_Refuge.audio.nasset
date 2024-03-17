@@ -1,0 +1,9 @@
+{
+    "guid": "b5bf12f2-d805-65a9-dd45-502d53c65455",
+    "source": "S_Meydan_Sacred_Refuge.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "b5bf12f2-d805-65a9-dd45-502d53c65455"
+    }
+}
