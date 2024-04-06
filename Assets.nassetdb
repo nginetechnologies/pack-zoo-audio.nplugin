@@ -1012,7 +1012,7 @@
     "4c340d99-5e7a-98e7-78a7-bb0d46e2e9fb": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
-        "path": "Assets/Meydan/S_Meydan_Floating_Above_Sokkan.audio.nasset"
+        "path": "Assets/Meydan/Singles/S_Meydan_Floating_Above_Sokkan.audio.nasset"
     },
     "4c373c89-50c9-3333-330a-46c9ca309372": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -1272,7 +1272,7 @@
     "5f3f2440-9162-5c54-3bfa-69b41840e831": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
-        "path": "Assets/Meydan/S_Meydan_Cerf.audio.nasset"
+        "path": "Assets/Meydan/Singles/S_Meydan_Cerf.audio.nasset"
     },
     "5f426648-883b-5ad3-a97f-29ce41140dae": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -1552,7 +1552,7 @@
     "6f30cab3-c444-5b5e-678c-b80597dfda31": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
-        "path": "Assets/Meydan/S_Meydan_Plasma.audio.nasset"
+        "path": "Assets/Meydan/Singles/S_Meydan_Plasma.audio.nasset"
     },
     "6fd74b62-e342-1d6e-7fbf-d846a531b06f": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -2132,7 +2132,7 @@
     "96a1b4b6-1264-f2d5-d43a-efb4be4b9f32": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
-        "path": "Assets/Meydan/S_Meydan_Sense.audio.nasset"
+        "path": "Assets/Meydan/Singles/S_Meydan_Sense.audio.nasset"
     },
     "96d34055-9492-1054-1dc7-ce98baaddb3c": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -2552,7 +2552,7 @@
     "b2daa4d4-5a3c-09a1-d94a-72ffc4a80c5f": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
-        "path": "Assets/Meydan/S_Meydan_Changes.audio.nasset"
+        "path": "Assets/Meydan/Singles/S_Meydan_Changes.audio.nasset"
     },
     "b2f27d46-45a9-3b9e-9efc-46c58946c413": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -3027,7 +3027,7 @@
     "d5af615a-f4bf-7925-432a-63540d1eb8d8": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
-        "path": "Assets/Meydan/S_Meydan_Keygen.audio.nasset"
+        "path": "Assets/Meydan/Singles/S_Meydan_Keygen.audio.nasset"
     },
     "d6a29148-1f64-fcb6-578c-7e406c72bed7": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
@@ -3412,7 +3412,7 @@
     "f70f8212-eec6-b4d8-1323-f2caf98053d5": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
-        "path": "Assets/Meydan/S_Meydan_Synthwave_Vibe.audio.nasset"
+        "path": "Assets/Meydan/Singles/S_Meydan_Synthwave_Vibe.audio.nasset"
     },
     "f74ba6d0-84b6-53f3-8194-ab08e805e3fa": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
