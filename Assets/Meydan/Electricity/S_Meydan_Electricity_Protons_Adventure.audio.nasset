@@ -1,0 +1,9 @@
+{
+    "guid": "77cc63f3-404a-dd8b-eb27-05581fd93dca",
+    "source": "S_Meydan_Electricity_Protons_Adventure.wav",
+    "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+    "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+    "ea45accb-89d5-4816-9831-f116045b90e4": {
+        "audio_asset": "77cc63f3-404a-dd8b-eb27-05581fd93dca"
+    }
+}
